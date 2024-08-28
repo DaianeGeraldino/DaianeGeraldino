@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=000000&width=435&lines=Hello+there+%F0%9F%90%93;My+name+is+Daiane" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=000000&width=435&lines=Hello+there+%F0%9F%90%93;My+name+is+Daiane+Geraldino" alt="Typing SVG" /></a>
 ##
 ( HTML5 | CSS3 | Java | Python | PHP )  🚀
 <ul>
